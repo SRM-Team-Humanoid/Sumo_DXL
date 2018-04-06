@@ -1,3 +1,3 @@
 # RoboGames Sumo Code
 + Uses Bluedot
-+ Uses DynamixelSDK
++ Uses pypot
